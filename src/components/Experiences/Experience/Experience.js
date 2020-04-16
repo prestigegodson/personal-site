@@ -14,7 +14,7 @@ const experience = (props) => {
                 <div className="col-md-9" >
                     <div className="card-body">
                         <div className="h5">{props.position}</div>
-                        {props.description.texts.map(txt => <p>{txt}</p>)}
+                        {props.description.texts.map((txt, index) => <p key={index}>{txt}</p>)}
                     </div>
                 </div>
             </div>

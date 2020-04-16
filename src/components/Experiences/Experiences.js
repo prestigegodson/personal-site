@@ -10,6 +10,7 @@ class Experiences extends Component {
                     <div className="h4 text-center mb-4 title">Work Experience</div>
                     {this.getExperience().map(exp => {
                         return <Experience 
+                                key={exp.company}
                                 company={exp.company} 
                                 startDate={exp.startDate}
                                 endDate={exp.endDate}

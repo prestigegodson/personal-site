@@ -17,7 +17,7 @@ class Contact extends Component {
                                         <div className="row">
                                             <div className="col-md-6">
                                                 <div className="card-body">
-                                                    <form action="" method="POST">
+                                                    <form action="" method="POST" onSubmit={(e) => e.preventDefault()}>
                                                         <div className="p pb-3"><strong>Feel free to contact me </strong></div>
                                                         <div className="row mb-3">
                                                             <div className="col">

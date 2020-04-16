@@ -19,7 +19,7 @@ const profile = (props) => {
                         {/* <a className="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a>
                         <a className="btn btn-primary" href="/#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a> */}
                         <a className="btn btn-primary smooth-scroll mr-2" href="https://www.linkedin.com/in/godson-ositadinma-23036110b/" target="_blank" rel="noopener noreferrer">Hire Me</a>
-                        <a className="btn btn-primary" href="https://www.linkedin.com/in/godson-ositadinma-23036110b/" target="_blank" rel="noopener noreferrer">Download CV</a>
+                        <a className="btn btn-primary" href="https://drive.google.com/open?id=19BxBtJ3ip6Z0-OhLdppk9MacRrn91yAB" target="_blank" rel="noopener noreferrer">Download CV</a>
                         </div>
                     </div>
                     <div className="section">
