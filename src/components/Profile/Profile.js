@@ -1,5 +1,5 @@
 import React from 'react'
-import backgroundImageUrl from '../../assets/images/bg_new.jpg'
+import backgroundImageUrl from '../../assets/images/bg.jpg'
 import profileImage from '../../assets/images/godson.jpg'
 
 const profile = (props) => {
